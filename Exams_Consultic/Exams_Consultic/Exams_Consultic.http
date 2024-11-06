@@ -1,0 +1,6 @@
+@Exams_Consultic_HostAddress = http://localhost:5273
+
+GET {{Exams_Consultic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
